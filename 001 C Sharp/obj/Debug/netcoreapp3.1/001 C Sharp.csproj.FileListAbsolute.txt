@@ -1,0 +1,13 @@
+D:\C#练习\001 C Sharp\bin\Debug\netcoreapp3.1\001 C Sharp.exe
+D:\C#练习\001 C Sharp\bin\Debug\netcoreapp3.1\001 C Sharp.deps.json
+D:\C#练习\001 C Sharp\bin\Debug\netcoreapp3.1\001 C Sharp.runtimeconfig.json
+D:\C#练习\001 C Sharp\bin\Debug\netcoreapp3.1\001 C Sharp.runtimeconfig.dev.json
+D:\C#练习\001 C Sharp\bin\Debug\netcoreapp3.1\001 C Sharp.dll
+D:\C#练习\001 C Sharp\bin\Debug\netcoreapp3.1\001 C Sharp.pdb
+D:\C#练习\001 C Sharp\obj\Debug\netcoreapp3.1\001 C Sharp.csprojAssemblyReference.cache
+D:\C#练习\001 C Sharp\obj\Debug\netcoreapp3.1\001 C Sharp.AssemblyInfoInputs.cache
+D:\C#练习\001 C Sharp\obj\Debug\netcoreapp3.1\001 C Sharp.AssemblyInfo.cs
+D:\C#练习\001 C Sharp\obj\Debug\netcoreapp3.1\001 C Sharp.csproj.CoreCompileInputs.cache
+D:\C#练习\001 C Sharp\obj\Debug\netcoreapp3.1\001 C Sharp.dll
+D:\C#练习\001 C Sharp\obj\Debug\netcoreapp3.1\001 C Sharp.pdb
+D:\C#练习\001 C Sharp\obj\Debug\netcoreapp3.1\001 C Sharp.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\bin\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.exe
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\bin\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.deps.json
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\bin\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.runtimeconfig.json
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\bin\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.runtimeconfig.dev.json
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\bin\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.dll
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\bin\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.pdb
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\obj\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.AssemblyInfoInputs.cache
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\obj\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.AssemblyInfo.cs
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\obj\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.csproj.CoreCompileInputs.cache
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\obj\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.dll
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\obj\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.pdb
+D:\C#练习\练习7-3 计算0-1000中每5个被7整除的数的和\obj\Debug\netcoreapp3.1\练习7-3 计算0-1000中每5个被7整除的数的和.genruntimeconfig.cache

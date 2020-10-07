@@ -1,0 +1,12 @@
+D:\C#练习\练习4 相反顺序输出\bin\Debug\netcoreapp3.1\练习4 相反顺序输出.exe
+D:\C#练习\练习4 相反顺序输出\bin\Debug\netcoreapp3.1\练习4 相反顺序输出.deps.json
+D:\C#练习\练习4 相反顺序输出\bin\Debug\netcoreapp3.1\练习4 相反顺序输出.runtimeconfig.json
+D:\C#练习\练习4 相反顺序输出\bin\Debug\netcoreapp3.1\练习4 相反顺序输出.runtimeconfig.dev.json
+D:\C#练习\练习4 相反顺序输出\bin\Debug\netcoreapp3.1\练习4 相反顺序输出.dll
+D:\C#练习\练习4 相反顺序输出\bin\Debug\netcoreapp3.1\练习4 相反顺序输出.pdb
+D:\C#练习\练习4 相反顺序输出\obj\Debug\netcoreapp3.1\练习4 相反顺序输出.AssemblyInfoInputs.cache
+D:\C#练习\练习4 相反顺序输出\obj\Debug\netcoreapp3.1\练习4 相反顺序输出.AssemblyInfo.cs
+D:\C#练习\练习4 相反顺序输出\obj\Debug\netcoreapp3.1\练习4 相反顺序输出.csproj.CoreCompileInputs.cache
+D:\C#练习\练习4 相反顺序输出\obj\Debug\netcoreapp3.1\练习4 相反顺序输出.dll
+D:\C#练习\练习4 相反顺序输出\obj\Debug\netcoreapp3.1\练习4 相反顺序输出.pdb
+D:\C#练习\练习4 相反顺序输出\obj\Debug\netcoreapp3.1\练习4 相反顺序输出.genruntimeconfig.cache

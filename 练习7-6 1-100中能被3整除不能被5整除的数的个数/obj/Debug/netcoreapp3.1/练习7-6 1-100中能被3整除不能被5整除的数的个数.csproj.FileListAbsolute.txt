@@ -1,0 +1,12 @@
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\bin\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.exe
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\bin\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.deps.json
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\bin\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.runtimeconfig.json
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\bin\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.runtimeconfig.dev.json
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\bin\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.dll
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\bin\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.pdb
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\obj\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.AssemblyInfoInputs.cache
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\obj\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.AssemblyInfo.cs
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\obj\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.csproj.CoreCompileInputs.cache
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\obj\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.dll
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\obj\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.pdb
+D:\C#练习\练习7-6 1-100中能被3整除不能被5整除的数的个数\obj\Debug\netcoreapp3.1\练习7-6 1-100中能被3整除不能被5整除的数的个数.genruntimeconfig.cache

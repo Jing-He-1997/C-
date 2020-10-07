@@ -1,0 +1,12 @@
+D:\C#练习\练习7-7 1000以内的素数\bin\Debug\netcoreapp3.1\练习7-7 1000以内的素数.exe
+D:\C#练习\练习7-7 1000以内的素数\bin\Debug\netcoreapp3.1\练习7-7 1000以内的素数.deps.json
+D:\C#练习\练习7-7 1000以内的素数\bin\Debug\netcoreapp3.1\练习7-7 1000以内的素数.runtimeconfig.json
+D:\C#练习\练习7-7 1000以内的素数\bin\Debug\netcoreapp3.1\练习7-7 1000以内的素数.runtimeconfig.dev.json
+D:\C#练习\练习7-7 1000以内的素数\bin\Debug\netcoreapp3.1\练习7-7 1000以内的素数.dll
+D:\C#练习\练习7-7 1000以内的素数\bin\Debug\netcoreapp3.1\练习7-7 1000以内的素数.pdb
+D:\C#练习\练习7-7 1000以内的素数\obj\Debug\netcoreapp3.1\练习7-7 1000以内的素数.AssemblyInfoInputs.cache
+D:\C#练习\练习7-7 1000以内的素数\obj\Debug\netcoreapp3.1\练习7-7 1000以内的素数.AssemblyInfo.cs
+D:\C#练习\练习7-7 1000以内的素数\obj\Debug\netcoreapp3.1\练习7-7 1000以内的素数.csproj.CoreCompileInputs.cache
+D:\C#练习\练习7-7 1000以内的素数\obj\Debug\netcoreapp3.1\练习7-7 1000以内的素数.dll
+D:\C#练习\练习7-7 1000以内的素数\obj\Debug\netcoreapp3.1\练习7-7 1000以内的素数.pdb
+D:\C#练习\练习7-7 1000以内的素数\obj\Debug\netcoreapp3.1\练习7-7 1000以内的素数.genruntimeconfig.cache

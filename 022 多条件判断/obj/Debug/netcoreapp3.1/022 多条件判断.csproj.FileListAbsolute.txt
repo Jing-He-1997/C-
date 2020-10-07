@@ -1,0 +1,12 @@
+D:\C#练习\022 多条件判断\bin\Debug\netcoreapp3.1\022 多条件判断.exe
+D:\C#练习\022 多条件判断\bin\Debug\netcoreapp3.1\022 多条件判断.deps.json
+D:\C#练习\022 多条件判断\bin\Debug\netcoreapp3.1\022 多条件判断.runtimeconfig.json
+D:\C#练习\022 多条件判断\bin\Debug\netcoreapp3.1\022 多条件判断.runtimeconfig.dev.json
+D:\C#练习\022 多条件判断\bin\Debug\netcoreapp3.1\022 多条件判断.dll
+D:\C#练习\022 多条件判断\bin\Debug\netcoreapp3.1\022 多条件判断.pdb
+D:\C#练习\022 多条件判断\obj\Debug\netcoreapp3.1\022 多条件判断.AssemblyInfoInputs.cache
+D:\C#练习\022 多条件判断\obj\Debug\netcoreapp3.1\022 多条件判断.AssemblyInfo.cs
+D:\C#练习\022 多条件判断\obj\Debug\netcoreapp3.1\022 多条件判断.csproj.CoreCompileInputs.cache
+D:\C#练习\022 多条件判断\obj\Debug\netcoreapp3.1\022 多条件判断.dll
+D:\C#练习\022 多条件判断\obj\Debug\netcoreapp3.1\022 多条件判断.pdb
+D:\C#练习\022 多条件判断\obj\Debug\netcoreapp3.1\022 多条件判断.genruntimeconfig.cache

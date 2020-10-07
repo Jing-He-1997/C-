@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>练习7_3_计算0_1000中每5个被7整除的数的和</RootNamespace>
+  </PropertyGroup>
+
+</Project>

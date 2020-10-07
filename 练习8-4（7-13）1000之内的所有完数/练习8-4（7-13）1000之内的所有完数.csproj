@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>练习8_4_7_13_1000之内的所有完数</RootNamespace>
+  </PropertyGroup>
+
+</Project>

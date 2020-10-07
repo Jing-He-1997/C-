@@ -1,0 +1,12 @@
+D:\C#练习\练习7-2 输入操作数\bin\Debug\netcoreapp3.1\练习7-2 输入操作数.exe
+D:\C#练习\练习7-2 输入操作数\bin\Debug\netcoreapp3.1\练习7-2 输入操作数.deps.json
+D:\C#练习\练习7-2 输入操作数\bin\Debug\netcoreapp3.1\练习7-2 输入操作数.runtimeconfig.json
+D:\C#练习\练习7-2 输入操作数\bin\Debug\netcoreapp3.1\练习7-2 输入操作数.runtimeconfig.dev.json
+D:\C#练习\练习7-2 输入操作数\bin\Debug\netcoreapp3.1\练习7-2 输入操作数.dll
+D:\C#练习\练习7-2 输入操作数\bin\Debug\netcoreapp3.1\练习7-2 输入操作数.pdb
+D:\C#练习\练习7-2 输入操作数\obj\Debug\netcoreapp3.1\练习7-2 输入操作数.AssemblyInfoInputs.cache
+D:\C#练习\练习7-2 输入操作数\obj\Debug\netcoreapp3.1\练习7-2 输入操作数.AssemblyInfo.cs
+D:\C#练习\练习7-2 输入操作数\obj\Debug\netcoreapp3.1\练习7-2 输入操作数.csproj.CoreCompileInputs.cache
+D:\C#练习\练习7-2 输入操作数\obj\Debug\netcoreapp3.1\练习7-2 输入操作数.dll
+D:\C#练习\练习7-2 输入操作数\obj\Debug\netcoreapp3.1\练习7-2 输入操作数.pdb
+D:\C#练习\练习7-2 输入操作数\obj\Debug\netcoreapp3.1\练习7-2 输入操作数.genruntimeconfig.cache

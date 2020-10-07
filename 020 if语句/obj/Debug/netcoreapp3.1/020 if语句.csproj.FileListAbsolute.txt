@@ -1,0 +1,12 @@
+D:\C#练习\020 if语句\bin\Debug\netcoreapp3.1\020 if语句.exe
+D:\C#练习\020 if语句\bin\Debug\netcoreapp3.1\020 if语句.deps.json
+D:\C#练习\020 if语句\bin\Debug\netcoreapp3.1\020 if语句.runtimeconfig.json
+D:\C#练习\020 if语句\bin\Debug\netcoreapp3.1\020 if语句.runtimeconfig.dev.json
+D:\C#练习\020 if语句\bin\Debug\netcoreapp3.1\020 if语句.dll
+D:\C#练习\020 if语句\bin\Debug\netcoreapp3.1\020 if语句.pdb
+D:\C#练习\020 if语句\obj\Debug\netcoreapp3.1\020 if语句.AssemblyInfoInputs.cache
+D:\C#练习\020 if语句\obj\Debug\netcoreapp3.1\020 if语句.AssemblyInfo.cs
+D:\C#练习\020 if语句\obj\Debug\netcoreapp3.1\020 if语句.csproj.CoreCompileInputs.cache
+D:\C#练习\020 if语句\obj\Debug\netcoreapp3.1\020 if语句.dll
+D:\C#练习\020 if语句\obj\Debug\netcoreapp3.1\020 if语句.pdb
+D:\C#练习\020 if语句\obj\Debug\netcoreapp3.1\020 if语句.genruntimeconfig.cache

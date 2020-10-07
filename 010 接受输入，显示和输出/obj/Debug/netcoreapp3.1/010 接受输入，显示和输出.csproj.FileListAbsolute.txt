@@ -1,0 +1,12 @@
+D:\C#练习\010 接受输入，显示和输出\bin\Debug\netcoreapp3.1\010 接受输入，显示和输出.exe
+D:\C#练习\010 接受输入，显示和输出\bin\Debug\netcoreapp3.1\010 接受输入，显示和输出.deps.json
+D:\C#练习\010 接受输入，显示和输出\bin\Debug\netcoreapp3.1\010 接受输入，显示和输出.runtimeconfig.json
+D:\C#练习\010 接受输入，显示和输出\bin\Debug\netcoreapp3.1\010 接受输入，显示和输出.runtimeconfig.dev.json
+D:\C#练习\010 接受输入，显示和输出\bin\Debug\netcoreapp3.1\010 接受输入，显示和输出.dll
+D:\C#练习\010 接受输入，显示和输出\bin\Debug\netcoreapp3.1\010 接受输入，显示和输出.pdb
+D:\C#练习\010 接受输入，显示和输出\obj\Debug\netcoreapp3.1\010 接受输入，显示和输出.AssemblyInfoInputs.cache
+D:\C#练习\010 接受输入，显示和输出\obj\Debug\netcoreapp3.1\010 接受输入，显示和输出.AssemblyInfo.cs
+D:\C#练习\010 接受输入，显示和输出\obj\Debug\netcoreapp3.1\010 接受输入，显示和输出.csproj.CoreCompileInputs.cache
+D:\C#练习\010 接受输入，显示和输出\obj\Debug\netcoreapp3.1\010 接受输入，显示和输出.dll
+D:\C#练习\010 接受输入，显示和输出\obj\Debug\netcoreapp3.1\010 接受输入，显示和输出.pdb
+D:\C#练习\010 接受输入，显示和输出\obj\Debug\netcoreapp3.1\010 接受输入，显示和输出.genruntimeconfig.cache

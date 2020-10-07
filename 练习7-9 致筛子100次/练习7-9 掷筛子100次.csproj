@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>练习7_9_致筛子100次</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\练习7-10 输出1-5的平方值\练习8-1(7-10) 输出1-5的平方值.csproj" />
+  </ItemGroup>
+
+</Project>

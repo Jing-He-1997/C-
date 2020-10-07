@@ -1,0 +1,13 @@
+D:\C#练习\003 变量的类型\bin\Debug\netcoreapp3.1\003 变量的类型.exe
+D:\C#练习\003 变量的类型\bin\Debug\netcoreapp3.1\003 变量的类型.deps.json
+D:\C#练习\003 变量的类型\bin\Debug\netcoreapp3.1\003 变量的类型.runtimeconfig.json
+D:\C#练习\003 变量的类型\bin\Debug\netcoreapp3.1\003 变量的类型.runtimeconfig.dev.json
+D:\C#练习\003 变量的类型\bin\Debug\netcoreapp3.1\003 变量的类型.dll
+D:\C#练习\003 变量的类型\bin\Debug\netcoreapp3.1\003 变量的类型.pdb
+D:\C#练习\003 变量的类型\obj\Debug\netcoreapp3.1\003 变量的类型.csprojAssemblyReference.cache
+D:\C#练习\003 变量的类型\obj\Debug\netcoreapp3.1\003 变量的类型.AssemblyInfoInputs.cache
+D:\C#练习\003 变量的类型\obj\Debug\netcoreapp3.1\003 变量的类型.AssemblyInfo.cs
+D:\C#练习\003 变量的类型\obj\Debug\netcoreapp3.1\003 变量的类型.csproj.CoreCompileInputs.cache
+D:\C#练习\003 变量的类型\obj\Debug\netcoreapp3.1\003 变量的类型.dll
+D:\C#练习\003 变量的类型\obj\Debug\netcoreapp3.1\003 变量的类型.pdb
+D:\C#练习\003 变量的类型\obj\Debug\netcoreapp3.1\003 变量的类型.genruntimeconfig.cache

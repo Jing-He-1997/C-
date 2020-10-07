@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "016 布尔运算/1.0.0": {
+        "runtime": {
+          "016 布尔运算.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "016 布尔运算/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "010 接受输入，显示和输出/1.0.0": {
+        "runtime": {
+          "010 接受输入，显示和输出.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010 接受输入，显示和输出/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

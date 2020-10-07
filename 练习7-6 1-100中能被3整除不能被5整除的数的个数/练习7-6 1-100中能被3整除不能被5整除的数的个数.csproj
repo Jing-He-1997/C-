@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>练习7_6_1_100中能被3整除不能被5整除的数的个数</RootNamespace>
+  </PropertyGroup>
+
+</Project>

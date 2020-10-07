@@ -1,0 +1,12 @@
+D:\C#练习\026 for循环\bin\Debug\netcoreapp3.1\026 for循环.exe
+D:\C#练习\026 for循环\bin\Debug\netcoreapp3.1\026 for循环.deps.json
+D:\C#练习\026 for循环\bin\Debug\netcoreapp3.1\026 for循环.runtimeconfig.json
+D:\C#练习\026 for循环\bin\Debug\netcoreapp3.1\026 for循环.runtimeconfig.dev.json
+D:\C#练习\026 for循环\bin\Debug\netcoreapp3.1\026 for循环.dll
+D:\C#练习\026 for循环\bin\Debug\netcoreapp3.1\026 for循环.pdb
+D:\C#练习\026 for循环\obj\Debug\netcoreapp3.1\026 for循环.AssemblyInfoInputs.cache
+D:\C#练习\026 for循环\obj\Debug\netcoreapp3.1\026 for循环.AssemblyInfo.cs
+D:\C#练习\026 for循环\obj\Debug\netcoreapp3.1\026 for循环.csproj.CoreCompileInputs.cache
+D:\C#练习\026 for循环\obj\Debug\netcoreapp3.1\026 for循环.dll
+D:\C#练习\026 for循环\obj\Debug\netcoreapp3.1\026 for循环.pdb
+D:\C#练习\026 for循环\obj\Debug\netcoreapp3.1\026 for循环.genruntimeconfig.cache

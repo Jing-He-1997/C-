@@ -1,0 +1,12 @@
+D:\C#练习\006 变量的声明和赋值\bin\Debug\netcoreapp3.1\006 变量的声明和赋值.exe
+D:\C#练习\006 变量的声明和赋值\bin\Debug\netcoreapp3.1\006 变量的声明和赋值.deps.json
+D:\C#练习\006 变量的声明和赋值\bin\Debug\netcoreapp3.1\006 变量的声明和赋值.runtimeconfig.json
+D:\C#练习\006 变量的声明和赋值\bin\Debug\netcoreapp3.1\006 变量的声明和赋值.runtimeconfig.dev.json
+D:\C#练习\006 变量的声明和赋值\bin\Debug\netcoreapp3.1\006 变量的声明和赋值.dll
+D:\C#练习\006 变量的声明和赋值\bin\Debug\netcoreapp3.1\006 变量的声明和赋值.pdb
+D:\C#练习\006 变量的声明和赋值\obj\Debug\netcoreapp3.1\006 变量的声明和赋值.AssemblyInfoInputs.cache
+D:\C#练习\006 变量的声明和赋值\obj\Debug\netcoreapp3.1\006 变量的声明和赋值.AssemblyInfo.cs
+D:\C#练习\006 变量的声明和赋值\obj\Debug\netcoreapp3.1\006 变量的声明和赋值.csproj.CoreCompileInputs.cache
+D:\C#练习\006 变量的声明和赋值\obj\Debug\netcoreapp3.1\006 变量的声明和赋值.dll
+D:\C#练习\006 变量的声明和赋值\obj\Debug\netcoreapp3.1\006 变量的声明和赋值.pdb
+D:\C#练习\006 变量的声明和赋值\obj\Debug\netcoreapp3.1\006 变量的声明和赋值.genruntimeconfig.cache

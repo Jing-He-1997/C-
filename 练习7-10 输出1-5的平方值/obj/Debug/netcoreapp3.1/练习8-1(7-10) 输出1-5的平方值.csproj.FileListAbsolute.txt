@@ -1,0 +1,12 @@
+D:\C#练习\练习7-10 输出1-5的平方值\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.exe
+D:\C#练习\练习7-10 输出1-5的平方值\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.deps.json
+D:\C#练习\练习7-10 输出1-5的平方值\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.runtimeconfig.json
+D:\C#练习\练习7-10 输出1-5的平方值\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.runtimeconfig.dev.json
+D:\C#练习\练习7-10 输出1-5的平方值\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.dll
+D:\C#练习\练习7-10 输出1-5的平方值\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.pdb
+D:\C#练习\练习7-10 输出1-5的平方值\obj\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.AssemblyInfoInputs.cache
+D:\C#练习\练习7-10 输出1-5的平方值\obj\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.AssemblyInfo.cs
+D:\C#练习\练习7-10 输出1-5的平方值\obj\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.csproj.CoreCompileInputs.cache
+D:\C#练习\练习7-10 输出1-5的平方值\obj\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.dll
+D:\C#练习\练习7-10 输出1-5的平方值\obj\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.pdb
+D:\C#练习\练习7-10 输出1-5的平方值\obj\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.genruntimeconfig.cache

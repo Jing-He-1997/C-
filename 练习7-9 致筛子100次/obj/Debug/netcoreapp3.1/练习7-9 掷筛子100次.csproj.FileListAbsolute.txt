@@ -1,0 +1,17 @@
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习7-9 掷筛子100次.exe
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习7-9 掷筛子100次.deps.json
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习7-9 掷筛子100次.runtimeconfig.json
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习7-9 掷筛子100次.runtimeconfig.dev.json
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习7-9 掷筛子100次.dll
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习7-9 掷筛子100次.pdb
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.AssemblyInfoInputs.cache
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.AssemblyInfo.cs
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.csproj.CoreCompileInputs.cache
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.dll
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.pdb
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.genruntimeconfig.cache
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.exe
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.dll
+D:\C#练习\练习7-9 致筛子100次\bin\Debug\netcoreapp3.1\练习8-1(7-10) 输出1-5的平方值.pdb
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.csprojAssemblyReference.cache
+D:\C#练习\练习7-9 致筛子100次\obj\Debug\netcoreapp3.1\练习7-9 掷筛子100次.csproj.CopyComplete

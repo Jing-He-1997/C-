@@ -1,0 +1,12 @@
+D:\C#练习\008 数学运算符自加自减\bin\Debug\netcoreapp3.1\008 数学运算符自加自减.exe
+D:\C#练习\008 数学运算符自加自减\bin\Debug\netcoreapp3.1\008 数学运算符自加自减.deps.json
+D:\C#练习\008 数学运算符自加自减\bin\Debug\netcoreapp3.1\008 数学运算符自加自减.runtimeconfig.json
+D:\C#练习\008 数学运算符自加自减\bin\Debug\netcoreapp3.1\008 数学运算符自加自减.runtimeconfig.dev.json
+D:\C#练习\008 数学运算符自加自减\bin\Debug\netcoreapp3.1\008 数学运算符自加自减.dll
+D:\C#练习\008 数学运算符自加自减\bin\Debug\netcoreapp3.1\008 数学运算符自加自减.pdb
+D:\C#练习\008 数学运算符自加自减\obj\Debug\netcoreapp3.1\008 数学运算符自加自减.AssemblyInfoInputs.cache
+D:\C#练习\008 数学运算符自加自减\obj\Debug\netcoreapp3.1\008 数学运算符自加自减.AssemblyInfo.cs
+D:\C#练习\008 数学运算符自加自减\obj\Debug\netcoreapp3.1\008 数学运算符自加自减.csproj.CoreCompileInputs.cache
+D:\C#练习\008 数学运算符自加自减\obj\Debug\netcoreapp3.1\008 数学运算符自加自减.dll
+D:\C#练习\008 数学运算符自加自减\obj\Debug\netcoreapp3.1\008 数学运算符自加自减.pdb
+D:\C#练习\008 数学运算符自加自减\obj\Debug\netcoreapp3.1\008 数学运算符自加自减.genruntimeconfig.cache

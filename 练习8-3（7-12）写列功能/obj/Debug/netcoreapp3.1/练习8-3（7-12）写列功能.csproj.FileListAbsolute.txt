@@ -1,0 +1,12 @@
+D:\C#练习\练习8-3（7-12）写列功能\bin\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.exe
+D:\C#练习\练习8-3（7-12）写列功能\bin\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.deps.json
+D:\C#练习\练习8-3（7-12）写列功能\bin\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.runtimeconfig.json
+D:\C#练习\练习8-3（7-12）写列功能\bin\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.runtimeconfig.dev.json
+D:\C#练习\练习8-3（7-12）写列功能\bin\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.dll
+D:\C#练习\练习8-3（7-12）写列功能\bin\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.pdb
+D:\C#练习\练习8-3（7-12）写列功能\obj\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.AssemblyInfoInputs.cache
+D:\C#练习\练习8-3（7-12）写列功能\obj\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.AssemblyInfo.cs
+D:\C#练习\练习8-3（7-12）写列功能\obj\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.csproj.CoreCompileInputs.cache
+D:\C#练习\练习8-3（7-12）写列功能\obj\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.dll
+D:\C#练习\练习8-3（7-12）写列功能\obj\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.pdb
+D:\C#练习\练习8-3（7-12）写列功能\obj\Debug\netcoreapp3.1\练习8-3（7-12）写列功能.genruntimeconfig.cache
