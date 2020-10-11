@@ -1,0 +1,13 @@
+D:\C#练习\036 显式转换和隐式转换\bin\Debug\netcoreapp3.1\036 显式转换和隐式转换.exe
+D:\C#练习\036 显式转换和隐式转换\bin\Debug\netcoreapp3.1\036 显式转换和隐式转换.deps.json
+D:\C#练习\036 显式转换和隐式转换\bin\Debug\netcoreapp3.1\036 显式转换和隐式转换.runtimeconfig.json
+D:\C#练习\036 显式转换和隐式转换\bin\Debug\netcoreapp3.1\036 显式转换和隐式转换.runtimeconfig.dev.json
+D:\C#练习\036 显式转换和隐式转换\bin\Debug\netcoreapp3.1\036 显式转换和隐式转换.dll
+D:\C#练习\036 显式转换和隐式转换\bin\Debug\netcoreapp3.1\036 显式转换和隐式转换.pdb
+D:\C#练习\036 显式转换和隐式转换\obj\Debug\netcoreapp3.1\036 显式转换和隐式转换.csprojAssemblyReference.cache
+D:\C#练习\036 显式转换和隐式转换\obj\Debug\netcoreapp3.1\036 显式转换和隐式转换.AssemblyInfoInputs.cache
+D:\C#练习\036 显式转换和隐式转换\obj\Debug\netcoreapp3.1\036 显式转换和隐式转换.AssemblyInfo.cs
+D:\C#练习\036 显式转换和隐式转换\obj\Debug\netcoreapp3.1\036 显式转换和隐式转换.csproj.CoreCompileInputs.cache
+D:\C#练习\036 显式转换和隐式转换\obj\Debug\netcoreapp3.1\036 显式转换和隐式转换.dll
+D:\C#练习\036 显式转换和隐式转换\obj\Debug\netcoreapp3.1\036 显式转换和隐式转换.pdb
+D:\C#练习\036 显式转换和隐式转换\obj\Debug\netcoreapp3.1\036 显式转换和隐式转换.genruntimeconfig.cache
