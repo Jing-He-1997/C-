@@ -1,0 +1,13 @@
+D:\C#练习\练习9-1 猴子吃桃\bin\Debug\netcoreapp3.1\练习9-1 猴子吃桃.exe
+D:\C#练习\练习9-1 猴子吃桃\bin\Debug\netcoreapp3.1\练习9-1 猴子吃桃.deps.json
+D:\C#练习\练习9-1 猴子吃桃\bin\Debug\netcoreapp3.1\练习9-1 猴子吃桃.runtimeconfig.json
+D:\C#练习\练习9-1 猴子吃桃\bin\Debug\netcoreapp3.1\练习9-1 猴子吃桃.runtimeconfig.dev.json
+D:\C#练习\练习9-1 猴子吃桃\bin\Debug\netcoreapp3.1\练习9-1 猴子吃桃.dll
+D:\C#练习\练习9-1 猴子吃桃\bin\Debug\netcoreapp3.1\练习9-1 猴子吃桃.pdb
+D:\C#练习\练习9-1 猴子吃桃\obj\Debug\netcoreapp3.1\练习9-1 猴子吃桃.csprojAssemblyReference.cache
+D:\C#练习\练习9-1 猴子吃桃\obj\Debug\netcoreapp3.1\练习9-1 猴子吃桃.AssemblyInfoInputs.cache
+D:\C#练习\练习9-1 猴子吃桃\obj\Debug\netcoreapp3.1\练习9-1 猴子吃桃.AssemblyInfo.cs
+D:\C#练习\练习9-1 猴子吃桃\obj\Debug\netcoreapp3.1\练习9-1 猴子吃桃.csproj.CoreCompileInputs.cache
+D:\C#练习\练习9-1 猴子吃桃\obj\Debug\netcoreapp3.1\练习9-1 猴子吃桃.dll
+D:\C#练习\练习9-1 猴子吃桃\obj\Debug\netcoreapp3.1\练习9-1 猴子吃桃.pdb
+D:\C#练习\练习9-1 猴子吃桃\obj\Debug\netcoreapp3.1\练习9-1 猴子吃桃.genruntimeconfig.cache

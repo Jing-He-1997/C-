@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "练习9-2 输出n个数找到最小值/1.0.0": {
+        "runtime": {
+          "练习9-2 输出n个数找到最小值.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "练习9-2 输出n个数找到最小值/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

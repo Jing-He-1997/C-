@@ -1,0 +1,13 @@
+D:\C#练习\练习8-9 数字从小到大输出\bin\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.exe
+D:\C#练习\练习8-9 数字从小到大输出\bin\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.deps.json
+D:\C#练习\练习8-9 数字从小到大输出\bin\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.runtimeconfig.json
+D:\C#练习\练习8-9 数字从小到大输出\bin\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.runtimeconfig.dev.json
+D:\C#练习\练习8-9 数字从小到大输出\bin\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.dll
+D:\C#练习\练习8-9 数字从小到大输出\bin\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.pdb
+D:\C#练习\练习8-9 数字从小到大输出\obj\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.AssemblyInfoInputs.cache
+D:\C#练习\练习8-9 数字从小到大输出\obj\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.AssemblyInfo.cs
+D:\C#练习\练习8-9 数字从小到大输出\obj\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.csproj.CoreCompileInputs.cache
+D:\C#练习\练习8-9 数字从小到大输出\obj\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.dll
+D:\C#练习\练习8-9 数字从小到大输出\obj\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.pdb
+D:\C#练习\练习8-9 数字从小到大输出\obj\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.genruntimeconfig.cache
+D:\C#练习\练习8-9 数字从小到大输出\obj\Debug\netcoreapp3.1\练习8-9 数字从小到大输出.csprojAssemblyReference.cache

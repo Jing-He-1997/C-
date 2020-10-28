@@ -1,0 +1,13 @@
+D:\C#练习\练习9-2 输出n个数找到最小值\bin\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.exe
+D:\C#练习\练习9-2 输出n个数找到最小值\bin\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.deps.json
+D:\C#练习\练习9-2 输出n个数找到最小值\bin\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.runtimeconfig.json
+D:\C#练习\练习9-2 输出n个数找到最小值\bin\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.runtimeconfig.dev.json
+D:\C#练习\练习9-2 输出n个数找到最小值\bin\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.dll
+D:\C#练习\练习9-2 输出n个数找到最小值\bin\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.pdb
+D:\C#练习\练习9-2 输出n个数找到最小值\obj\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.csprojAssemblyReference.cache
+D:\C#练习\练习9-2 输出n个数找到最小值\obj\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.AssemblyInfoInputs.cache
+D:\C#练习\练习9-2 输出n个数找到最小值\obj\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.AssemblyInfo.cs
+D:\C#练习\练习9-2 输出n个数找到最小值\obj\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.csproj.CoreCompileInputs.cache
+D:\C#练习\练习9-2 输出n个数找到最小值\obj\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.dll
+D:\C#练习\练习9-2 输出n个数找到最小值\obj\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.pdb
+D:\C#练习\练习9-2 输出n个数找到最小值\obj\Debug\netcoreapp3.1\练习9-2 输出n个数找到最小值.genruntimeconfig.cache
