@@ -1,0 +1,12 @@
+D:\C#练习\练习8-5 水仙花数\bin\Debug\netcoreapp3.1\练习8-5 水仙花数.exe
+D:\C#练习\练习8-5 水仙花数\bin\Debug\netcoreapp3.1\练习8-5 水仙花数.deps.json
+D:\C#练习\练习8-5 水仙花数\bin\Debug\netcoreapp3.1\练习8-5 水仙花数.runtimeconfig.json
+D:\C#练习\练习8-5 水仙花数\bin\Debug\netcoreapp3.1\练习8-5 水仙花数.runtimeconfig.dev.json
+D:\C#练习\练习8-5 水仙花数\bin\Debug\netcoreapp3.1\练习8-5 水仙花数.dll
+D:\C#练习\练习8-5 水仙花数\bin\Debug\netcoreapp3.1\练习8-5 水仙花数.pdb
+D:\C#练习\练习8-5 水仙花数\obj\Debug\netcoreapp3.1\练习8-5 水仙花数.AssemblyInfoInputs.cache
+D:\C#练习\练习8-5 水仙花数\obj\Debug\netcoreapp3.1\练习8-5 水仙花数.AssemblyInfo.cs
+D:\C#练习\练习8-5 水仙花数\obj\Debug\netcoreapp3.1\练习8-5 水仙花数.csproj.CoreCompileInputs.cache
+D:\C#练习\练习8-5 水仙花数\obj\Debug\netcoreapp3.1\练习8-5 水仙花数.dll
+D:\C#练习\练习8-5 水仙花数\obj\Debug\netcoreapp3.1\练习8-5 水仙花数.pdb
+D:\C#练习\练习8-5 水仙花数\obj\Debug\netcoreapp3.1\练习8-5 水仙花数.genruntimeconfig.cache

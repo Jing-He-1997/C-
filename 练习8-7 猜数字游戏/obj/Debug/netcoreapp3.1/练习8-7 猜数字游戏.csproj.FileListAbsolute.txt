@@ -1,0 +1,12 @@
+D:\C#练习\练习8-7 猜数字游戏\bin\Debug\netcoreapp3.1\练习8-7 猜数字游戏.exe
+D:\C#练习\练习8-7 猜数字游戏\bin\Debug\netcoreapp3.1\练习8-7 猜数字游戏.deps.json
+D:\C#练习\练习8-7 猜数字游戏\bin\Debug\netcoreapp3.1\练习8-7 猜数字游戏.runtimeconfig.json
+D:\C#练习\练习8-7 猜数字游戏\bin\Debug\netcoreapp3.1\练习8-7 猜数字游戏.runtimeconfig.dev.json
+D:\C#练习\练习8-7 猜数字游戏\bin\Debug\netcoreapp3.1\练习8-7 猜数字游戏.dll
+D:\C#练习\练习8-7 猜数字游戏\bin\Debug\netcoreapp3.1\练习8-7 猜数字游戏.pdb
+D:\C#练习\练习8-7 猜数字游戏\obj\Debug\netcoreapp3.1\练习8-7 猜数字游戏.AssemblyInfoInputs.cache
+D:\C#练习\练习8-7 猜数字游戏\obj\Debug\netcoreapp3.1\练习8-7 猜数字游戏.AssemblyInfo.cs
+D:\C#练习\练习8-7 猜数字游戏\obj\Debug\netcoreapp3.1\练习8-7 猜数字游戏.csproj.CoreCompileInputs.cache
+D:\C#练习\练习8-7 猜数字游戏\obj\Debug\netcoreapp3.1\练习8-7 猜数字游戏.dll
+D:\C#练习\练习8-7 猜数字游戏\obj\Debug\netcoreapp3.1\练习8-7 猜数字游戏.pdb
+D:\C#练习\练习8-7 猜数字游戏\obj\Debug\netcoreapp3.1\练习8-7 猜数字游戏.genruntimeconfig.cache
