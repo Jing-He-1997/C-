@@ -1,0 +1,13 @@
+D:\C#练习\练习9-3 特定条件插入数字\bin\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.exe
+D:\C#练习\练习9-3 特定条件插入数字\bin\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.deps.json
+D:\C#练习\练习9-3 特定条件插入数字\bin\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.runtimeconfig.json
+D:\C#练习\练习9-3 特定条件插入数字\bin\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.runtimeconfig.dev.json
+D:\C#练习\练习9-3 特定条件插入数字\bin\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.dll
+D:\C#练习\练习9-3 特定条件插入数字\bin\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.pdb
+D:\C#练习\练习9-3 特定条件插入数字\obj\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.csprojAssemblyReference.cache
+D:\C#练习\练习9-3 特定条件插入数字\obj\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.AssemblyInfoInputs.cache
+D:\C#练习\练习9-3 特定条件插入数字\obj\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.AssemblyInfo.cs
+D:\C#练习\练习9-3 特定条件插入数字\obj\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.csproj.CoreCompileInputs.cache
+D:\C#练习\练习9-3 特定条件插入数字\obj\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.dll
+D:\C#练习\练习9-3 特定条件插入数字\obj\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.pdb
+D:\C#练习\练习9-3 特定条件插入数字\obj\Debug\netcoreapp3.1\练习9-3 特定条件插入数字.genruntimeconfig.cache
