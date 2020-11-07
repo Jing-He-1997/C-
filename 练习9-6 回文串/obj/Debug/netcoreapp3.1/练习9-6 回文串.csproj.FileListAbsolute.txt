@@ -1,0 +1,12 @@
+D:\C#练习\练习9-6 回文串\bin\Debug\netcoreapp3.1\练习9-6 回文串.exe
+D:\C#练习\练习9-6 回文串\bin\Debug\netcoreapp3.1\练习9-6 回文串.deps.json
+D:\C#练习\练习9-6 回文串\bin\Debug\netcoreapp3.1\练习9-6 回文串.runtimeconfig.json
+D:\C#练习\练习9-6 回文串\bin\Debug\netcoreapp3.1\练习9-6 回文串.runtimeconfig.dev.json
+D:\C#练习\练习9-6 回文串\bin\Debug\netcoreapp3.1\练习9-6 回文串.dll
+D:\C#练习\练习9-6 回文串\bin\Debug\netcoreapp3.1\练习9-6 回文串.pdb
+D:\C#练习\练习9-6 回文串\obj\Debug\netcoreapp3.1\练习9-6 回文串.AssemblyInfoInputs.cache
+D:\C#练习\练习9-6 回文串\obj\Debug\netcoreapp3.1\练习9-6 回文串.AssemblyInfo.cs
+D:\C#练习\练习9-6 回文串\obj\Debug\netcoreapp3.1\练习9-6 回文串.csproj.CoreCompileInputs.cache
+D:\C#练习\练习9-6 回文串\obj\Debug\netcoreapp3.1\练习9-6 回文串.dll
+D:\C#练习\练习9-6 回文串\obj\Debug\netcoreapp3.1\练习9-6 回文串.pdb
+D:\C#练习\练习9-6 回文串\obj\Debug\netcoreapp3.1\练习9-6 回文串.genruntimeconfig.cache

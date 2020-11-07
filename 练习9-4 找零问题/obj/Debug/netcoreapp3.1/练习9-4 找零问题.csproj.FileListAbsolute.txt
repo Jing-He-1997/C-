@@ -1,0 +1,13 @@
+D:\C#练习\练习9-4 找零问题\bin\Debug\netcoreapp3.1\练习9-4 找零问题.exe
+D:\C#练习\练习9-4 找零问题\bin\Debug\netcoreapp3.1\练习9-4 找零问题.deps.json
+D:\C#练习\练习9-4 找零问题\bin\Debug\netcoreapp3.1\练习9-4 找零问题.runtimeconfig.json
+D:\C#练习\练习9-4 找零问题\bin\Debug\netcoreapp3.1\练习9-4 找零问题.runtimeconfig.dev.json
+D:\C#练习\练习9-4 找零问题\bin\Debug\netcoreapp3.1\练习9-4 找零问题.dll
+D:\C#练习\练习9-4 找零问题\bin\Debug\netcoreapp3.1\练习9-4 找零问题.pdb
+D:\C#练习\练习9-4 找零问题\obj\Debug\netcoreapp3.1\练习9-4 找零问题.csprojAssemblyReference.cache
+D:\C#练习\练习9-4 找零问题\obj\Debug\netcoreapp3.1\练习9-4 找零问题.AssemblyInfoInputs.cache
+D:\C#练习\练习9-4 找零问题\obj\Debug\netcoreapp3.1\练习9-4 找零问题.AssemblyInfo.cs
+D:\C#练习\练习9-4 找零问题\obj\Debug\netcoreapp3.1\练习9-4 找零问题.csproj.CoreCompileInputs.cache
+D:\C#练习\练习9-4 找零问题\obj\Debug\netcoreapp3.1\练习9-4 找零问题.dll
+D:\C#练习\练习9-4 找零问题\obj\Debug\netcoreapp3.1\练习9-4 找零问题.pdb
+D:\C#练习\练习9-4 找零问题\obj\Debug\netcoreapp3.1\练习9-4 找零问题.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\bin\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.exe
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\bin\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.deps.json
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\bin\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.runtimeconfig.json
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\bin\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.runtimeconfig.dev.json
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\bin\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.dll
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\bin\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.pdb
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\obj\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.csprojAssemblyReference.cache
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\obj\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.AssemblyInfoInputs.cache
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\obj\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.AssemblyInfo.cs
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\obj\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.csproj.CoreCompileInputs.cache
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\obj\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.dll
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\obj\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.pdb
+D:\C#练习\练习9-5 判断是否为Csharp合法标识符\obj\Debug\netcoreapp3.1\练习9-5 判断是否为Csharp合法标识符.genruntimeconfig.cache
